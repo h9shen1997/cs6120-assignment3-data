@@ -1,0 +1,1269 @@
+{
+  "classes": [
+    "RESTAURANT",
+    "RESTAURANT_TYPE",
+    "PRICE",
+    "SERVICE",
+    "FOOD_QUALITY",
+    "FOOD",
+    "SENTIMENT"
+  ],
+  "annotations": [
+    [
+      "potato like rubber could tell made ahead time kept warmer",
+      {
+        "entities": [
+          [0, 6, "FOOD"],
+          [7, 18, "FOOD_QUALITY"],
+          [30, 45, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "took hour get food table restaurant food luke warm sever running around like totally overwhelmed",
+      {
+        "entities": [[77, 96, "SERVICE"]]
+      }
+    ],
+    [
+      "seems like good quick place grab bite familiar pub food favor look elsewhere",
+      {
+        "entities": [
+          [11, 15, "SENTIMENT"],
+          [16, 21, "SERVICE"],
+          [47, 55, "RESTAURANT_TYPE"],
+          [62, 76, "SENTIMENT"]
+        ]
+      }
+    ],
+    [
+      "poor service waiter made feel like stupid every time came table",
+      {
+        "entities": [
+          [0, 4, "SERVICE"],
+          [35, 41, "SENTIMENT"]
+        ]
+      }
+    ],
+    [
+      "hard judge whether side good grossed melted styrofoam want eat fear getting sick",
+      {
+        "entities": [
+          [29, 36, "SENTIMENT"],
+          [63, 67, "SENTIMENT"]
+        ]
+      }
+    ],
+    [
+      "heart attack grill downtown vega absolutely flat lined excuse restaurant",
+      {
+        "entities": [
+          [0, 18, "RESTAURANT"],
+          [44, 54, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "guess known place would suck inside excalibur use common sense",
+      {
+        "entities": [[24, 28, "FOOD_QUALITY"]]
+      }
+    ],
+    [
+      "much good food vega feel cheated wasting eating opportunity going rice company",
+      {
+        "entities": [[25, 32, "SENTIMENT"]]
+      }
+    ],
+    [
+      "coming like experiencing underwhelming relationship party wait person ask break",
+      {
+        "entities": [
+          [25, 38, "SENTIMENT"],
+          [58, 62, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "pan cake everyone raving taste like sugary disaster tailored palate six year old",
+      {
+        "entities": [
+          [0, 8, "FOOD"],
+          [18, 24, "SENTIMENT"],
+          [36, 42, "FOOD_QUALITY"],
+          [43, 51, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "like really sexy party mouth outrageously flirting hottest person party",
+      {
+        "entities": [
+          [12, 16, "SENTIMENT"],
+          [29, 41, "SENTIMENT"],
+          [42, 50, "SENTIMENT"],
+          [51, 58, "SENTIMENT"]
+        ]
+      }
+    ],
+    [
+      "server fantastic found wife love roasted garlic bone marrow added extra meal another marrow go",
+      {
+        "entities": [
+          [7, 16, "SERVICE"],
+          [23, 27, "SENTIMENT"],
+          [28, 52, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "loved mussel cooked wine reduction duck tender potato dish delicious",
+      {
+        "entities": [
+          [0, 5, "SENTIMENT"],
+          [6, 12, "FOOD"],
+          [20, 39, "FOOD"],
+          [40, 46, "FOOD_QUALITY"],
+          [47, 53, "FOOD"],
+          [59, 68, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "although much liked look sound place actual experience bit disappointing",
+      {
+        "entities": [[59, 72, "SENTIMENT"]]
+      }
+    ],
+    [
+      "know place managed served blandest food ever eaten preparing indian cuisine",
+      {
+        "entities": [
+          [26, 34, "FOOD_QUALITY"],
+          [61, 75, "RESTAURANT_TYPE"]
+        ]
+      }
+    ],
+    [
+      "guy steak steak loving son steak best worst place said best steak ever eaten",
+      {
+        "entities": [
+          [4, 9, "RESTAURANT_TYPE"],
+          [60, 65, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "thought venture away get good sushi place really hit spot night",
+      {
+        "entities": [
+          [25, 29, "FOOD_QUALITY"],
+          [30, 35, "RESTAURANT_TYPE"]
+        ]
+      }
+    ],
+    [
+      "bland not liking place number reason want waste time bad reviewing leave",
+      {
+        "entities": [
+          [6, 16, "RESTAURANT"],
+          [42, 52, "SENTIMENT"],
+          [53, 56, "SENTIMENT"]
+        ]
+      }
+    ],
+    [
+      "definitely worth venturing strip pork belly return next time vega",
+      {
+        "entities": [
+          [0, 16, "SENTIMENT"],
+          [27, 43, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "good selection food including massive meatloaf sandwich crispy chicken wrap delish tuna melt tasty burger",
+      {
+        "entities": [
+          [0, 4, "FOOD_QUALITY"],
+          [30, 46, "FOOD"],
+          [47, 55, "FOOD"],
+          [56, 75, "FOOD"],
+          [76, 87, "FOOD"],
+          [93, 98, "FOOD_QUALITY"],
+          [99, 105, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "delicious nyc bagel good selection cream cheese real lox caper even",
+      {
+        "entities": [
+          [0, 9, "FOOD_QUALITY"],
+          [10, 13, "RESTAURANT_TYPE"],
+          [14, 19, "FOOD"],
+          [35, 47, "FOOD"],
+          [48, 52, "FOOD_QUALITY"],
+          [53, 56, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "great subway fact good come every subway not meet expectation",
+      {
+        "entities": [
+          [0, 12, "RESTAURANT"],
+          [18, 22, "FOOD_QUALITY"],
+          [45, 61, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "extremely rude really many restaurant would love dine weekend vega",
+      {
+        "entities": [[0, 14, "SERVICE"]]
+      }
+    ],
+    [
+      "nice blanket moz top feel like done cover subpar food",
+      {
+        "entities": [
+          [0, 4, "FOOD_QUALITY"],
+          [42, 48, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "service little slow considering served people server food coming slow pace",
+      {
+        "entities": [
+          [8, 19, "SERVICE"],
+          [65, 74, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "different cut piece day still wonderful tender well well flavored",
+      {
+        "entities": [
+          [0, 9, "FOOD_QUALITY"],
+          [30, 39, "FOOD_QUALITY"],
+          [40, 46, "FOOD_QUALITY"],
+          [57, 65, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "ordered voodoo pasta first time really excellent pasta since going gluten free several year ago",
+      {
+        "entities": [
+          [8, 20, "FOOD"],
+          [39, 48, "FOOD_QUALITY"],
+          [49, 54, "FOOD"],
+          [67, 78, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "also ordered spinach avocado salad ingredient sad dressing literally zero taste",
+      {
+        "entities": [
+          [13, 34, "FOOD"],
+          [46, 49, "FOOD_QUALITY"],
+          [69, 79, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "really vega fine dining used right menu handed lady no price listed",
+      {
+        "entities": [
+          [12, 23, "RESTAURANT_TYPE"],
+          [52, 60, "PRICE"]
+        ]
+      }
+    ],
+    [
+      "everything menu terrific also thrilled made amazing accommodation vegetarian daughter",
+      {
+        "entities": [
+          [16, 24, "FOOD_QUALITY"],
+          [30, 38, "SENTIMENT"],
+          [44, 65, "SERVICE"],
+          [66, 76, "RESTAURANT_TYPE"]
+        ]
+      }
+    ],
+    [
+      "burger absolutely no flavor meat totally bland burger overcooked no charcoal flavor",
+      {
+        "entities": [
+          [0, 6, "FOOD"],
+          [18, 27, "FOOD_QUALITY"],
+          [28, 32, "FOOD"],
+          [41, 46, "FOOD_QUALITY"],
+          [54, 64, "FOOD_QUALITY"],
+          [65, 83, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "also decided not send back waitress looked like verge heart attack",
+      {
+        "entities": [[48, 66, "SERVICE"]]
+      }
+    ],
+    [
+      "love place hit spot want something healthy not lacking quantity flavor",
+      {
+        "entities": [
+          [0, 4, "SENTIMENT"],
+          [35, 42, "FOOD_QUALITY"],
+          [43, 46, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "also served hot bread butter home made potato chip bacon bit top original good",
+      {
+        "entities": [
+          [12, 21, "FOOD"],
+          [22, 28, "FOOD"],
+          [29, 38, "FOOD_QUALITY"],
+          [39, 50, "FOOD"],
+          [51, 56, "FOOD"],
+          [65, 73, "FOOD_QUALITY"],
+          [74, 78, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "not really sure joey voted best hot dog valley reader phoenix magazine",
+      {
+        "entities": [
+          [0, 15, "SENTIMENT"],
+          [16, 20, "RESTAURANT"],
+          [32, 39, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "side delish mixed mushroom yukon gold puree white corn beateous",
+      {
+        "entities": [
+          [0, 4, "FOOD"],
+          [5, 11, "FOOD_QUALITY"],
+          [18, 26, "FOOD"],
+          [27, 43, "FOOD"],
+          [44, 54, "FOOD"],
+          [55, 63, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "lobster bisque bussell sprout risotto filet needed salt pepper course none table",
+      {
+        "entities": [
+          [0, 14, "FOOD"],
+          [15, 29, "FOOD"],
+          [30, 37, "FOOD"],
+          [38, 43, "FOOD"],
+          [44, 62, "FOOD_QUALITY"],
+          [70, 74, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "food bad enough enjoy dealing world worst annoying drunk people",
+      {
+        "entities": [
+          [5, 8, "FOOD_QUALITY"],
+          [42, 50, "SERVICE"],
+          [51, 56, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "ordered double cheeseburger got single patty falling apart picture uploaded yeah still suck",
+      {
+        "entities": [
+          [8, 27, "FOOD"],
+          [45, 58, "FOOD_QUALITY"],
+          [87, 91, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "great place couple drink watch sporting event wall covered tv",
+      {
+        "entities": [[0, 5, "SERVICE"]]
+      }
+    ],
+    [
+      "say would hardest decision honestly dish taste supposed taste amazing",
+      {
+        "entities": [[62, 69, "FOOD_QUALITY"]]
+      }
+    ],
+    [
+      "not rolled eye may stayed not sure go back try",
+      {
+        "entities": [
+          [4, 14, "SERVICE"],
+          [26, 34, "SENTIMENT"]
+        ]
+      }
+    ],
+    [
+      "based sub par service received no effort show gratitude business going back",
+      {
+        "entities": [
+          [6, 13, "SERVICE"],
+          [31, 40, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "overall think would take parent place made similar complaint silently felt",
+      {
+        "entities": [[51, 60, "SERVICE"]]
+      }
+    ],
+    [
+      "waited hour never got either pizza many around u came later",
+      {
+        "entities": [
+          [0, 11, "SERVICE"],
+          [12, 21, "SERVICE"],
+          [29, 34, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "go gave star rating please know third time eating bachi burger writing review",
+      {
+        "entities": [[50, 62, "RESTAURANT"]]
+      }
+    ],
+    [
+      "potato chip order sad could probably count many chip box probably around",
+      {
+        "entities": [
+          [0, 11, "FOOD"],
+          [18, 21, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "much like go back get passed atrocious service never return",
+      {
+        "entities": [[29, 38, "SERVICE"]]
+      }
+    ],
+    [
+      "point friend basically figured place joke mind making publicly loudly known",
+      {
+        "entities": [[37, 41, "SERVICE"]]
+      }
+    ],
+    [
+      "back good bbq lighter fare reasonable pricing tell public back old way",
+      {
+        "entities": [
+          [5, 9, "FOOD_QUALITY"],
+          [10, 13, "FOOD"],
+          [14, 26, "PRICE"],
+          [27, 45, "PRICE"]
+        ]
+      }
+    ],
+    [
+      "could serve vinaigrette may make better overall dish still good",
+      {
+        "entities": [
+          [12, 23, "FOOD"],
+          [59, 63, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "go far many place never seen restaurant serf egg breakfast especially",
+      {
+        "entities": [
+          [18, 28, "SENTIMENT"],
+          [45, 58, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "first bathroom location dirty seat cover not replenished plain yucky",
+      {
+        "entities": [
+          [24, 29, "SERVICE"],
+          [63, 68, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "classy warm atmosphere fun fresh appetizer succulent steak baseball steak",
+      {
+        "entities": [
+          [0, 6, "RESTAURANT_TYPE"],
+          [7, 22, "RESTAURANT_TYPE"],
+          [23, 26, "FOOD_QUALITY"],
+          [27, 32, "FOOD_QUALITY"],
+          [33, 42, "FOOD"],
+          [43, 52, "FOOD_QUALITY"],
+          [53, 58, "FOOD"],
+          [59, 73, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "sadly gordon ramsey steak place shall sharply avoid next trip vega",
+      {
+        "entities": [
+          [0, 5, "SENTIMENT"],
+          [6, 25, "RESTAURANT"],
+          [38, 51, "SENTIMENT"]
+        ]
+      }
+    ],
+    [
+      "customize order way like usual eggplant green bean stir fry love",
+      {
+        "entities": [
+          [0, 9, "SERVICE"],
+          [31, 39, "FOOD"],
+          [40, 50, "FOOD"],
+          [60, 64, "SENTIMENT"]
+        ]
+      }
+    ],
+    [
+      "staff not friendly wait time served horrible no one even say hi first minute",
+      {
+        "entities": [
+          [6, 18, "SERVICE"],
+          [36, 44, "SERVICE"],
+          [45, 51, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "continue come lady night andddd date night highly recommend place anyone area",
+      {
+        "entities": [[43, 59, "SENTIMENT"]]
+      }
+    ],
+    [
+      "service excellent price pretty reasonable considering vega located inside crystal shopping mall aria",
+      {
+        "entities": [
+          [8, 17, "SERVICE"],
+          [31, 41, "PRICE"]
+        ]
+      }
+    ],
+    [
+      "summarize food incredible nay transcendant nothing brings joy quite like memory pneumatic condiment dispenser",
+      {
+        "entities": [
+          [10, 14, "FOOD"],
+          [15, 25, "FOOD_QUALITY"],
+          [26, 29, "FOOD_QUALITY"],
+          [30, 42, "FOOD_QUALITY"],
+          [58, 61, "SENTIMENT"]
+        ]
+      }
+    ],
+    [
+      "kid pizza always hit lot great side dish option kiddos",
+      {
+        "entities": [
+          [17, 20, "FOOD_QUALITY"],
+          [25, 30, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "great place eat reminds little mom pop shop san francisco bay area",
+      {
+        "entities": [[31, 43, "RESTAURANT_TYPE"]]
+      }
+    ],
+    [
+      "today first taste buldogis gourmet hot dog tell ever thought possible",
+      {
+        "entities": [
+          [18, 42, "FOOD"],
+          [48, 69, "SENTIMENT"]
+        ]
+      }
+    ],
+    [
+      "server nice even though looked little overwhelmed need stayed professional friendly end",
+      {
+        "entities": [
+          [7, 11, "SERVICE"],
+          [38, 49, "SERVICE"],
+          [62, 74, "SERVICE"],
+          [75, 83, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "far sushi connoisseur definitely tell difference good food bad food certainly bad food",
+      {
+        "entities": [
+          [4, 9, "RESTAURANT_TYPE"],
+          [78, 81, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "food good enjoyed every mouthful enjoyable relaxed venue couple small family group etc",
+      {
+        "entities": [
+          [5, 9, "FOOD_QUALITY"],
+          [10, 17, "SENTIMENT"],
+          [33, 56, "RESTAURANT"]
+        ]
+      }
+    ],
+    [
+      "vanilla ice cream creamy smooth profiterole chou pastry fresh enough",
+      {
+        "entities": [
+          [0, 17, "FOOD"],
+          [25, 31, "FOOD_QUALITY"],
+          [32, 43, "FOOD"],
+          [49, 55, "FOOD"],
+          [56, 61, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "due fact took minute acknowledged another minute get food kept forgetting thing",
+      {
+        "entities": [
+          [9, 20, "SERVICE"],
+          [58, 73, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "total letdown would much rather go camelback flower shop cartel coffee",
+      {
+        "entities": [
+          [0, 13, "SENTIMENT"],
+          [35, 56, "RESTAURANT"],
+          [57, 70, "RESTAURANT"]
+        ]
+      }
+    ],
+    [
+      "place jewel la vega exactly hoping find nearly ten year living",
+      {
+        "entities": [
+          [0, 5, "RESTAURANT"],
+          [28, 34, "SENTIMENT"]
+        ]
+      }
+    ],
+    [
+      "seafood limited boiled shrimp crab leg crab leg definitely not taste fresh",
+      {
+        "entities": [
+          [0, 7, "RESTAURANT_TYPE"],
+          [16, 29, "FOOD"],
+          [30, 38, "FOOD"],
+          [39, 47, "FOOD"],
+          [59, 74, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "toro tartare cavier extraordinary liked thinly sliced wagyu white truffle",
+      {
+        "entities": [
+          [0, 12, "FOOD"],
+          [13, 19, "FOOD"],
+          [20, 33, "FOOD_QUALITY"],
+          [34, 39, "SENTIMENT"],
+          [40, 53, "FOOD_QUALITY"],
+          [54, 59, "FOOD"],
+          [60, 73, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "also taste mom multi grain pumpkin pancake pecan butter amazing fluffy delicious",
+      {
+        "entities": [
+          [15, 26, "FOOD_QUALITY"],
+          [27, 42, "FOOD"],
+          [43, 55, "FOOD"],
+          [56, 63, "FOOD_QUALITY"],
+          [64, 70, "FOOD_QUALITY"],
+          [71, 80, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "first glance lovely bakery cafe nice ambiance clean friendly staff",
+      {
+        "entities": [
+          [13, 19, "FOOD_QUALITY"],
+          [20, 26, "FOOD"],
+          [32, 36, "SERVICE"],
+          [46, 51, "SERCICE"],
+          [52, 60, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "sure order dessert even need pack go tiramisu cannoli die",
+      {
+        "entities": [
+          [11, 18, "FOOD"],
+          [37, 45, "FOOD"],
+          [46, 53, "FOOD"],
+          [54, 57, "SENTIMENT"]
+        ]
+      }
+    ],
+    [
+      "love authentic mexican food want whole bunch interesting yet delicious meat choose need try place",
+      {
+        "entities": [
+          [15, 22, "RESTAURANT_TYPE"],
+          [45, 56, "SENTIMENT"],
+          [61, 70, "FOOD_QUALITY"],
+          [71, 75, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "boyfriend came first time recent trip vega could not pleased quality food service",
+      {
+        "entities": [
+          [53, 60, "SENTIMENT"],
+          [61, 68, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "server went back forth several time not even much helped",
+      {
+        "entities": [[36, 56, "SERVICE"]]
+      }
+    ],
+    [
+      "breakfast prepared great beautiful presentation giant slice toast lightly dusted powdered sugar",
+      {
+        "entities": [
+          [10, 24, "SERVICE"],
+          [25, 47, "SERVICE"],
+          [48, 59, "FOOD_QUALITY"],
+          [60, 65, "FOOD"],
+          [66, 80, "FOOD_QUALITY"],
+          [81, 89, "FOOD_QUALITY"],
+          [90, 95, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "really enjoyed crema caf expanded even told friend best breakfast",
+      {
+        "entities": [
+          [7, 14, "SENTIMENT"],
+          [15, 24, "FOOD"],
+          [51, 55, "FOOD_QUALITY"],
+          [56, 65, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "got sitting fairly fast ended waiting minute place order another minute food arrived",
+      {
+        "entities": [
+          [12, 23, "SERVICE"],
+          [30, 37, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "owner really really need quit soooooo cheap let wrap freaking sandwich two paper not one",
+      {
+        "entities": [
+          [30, 43, "SERVICE"],
+          [62, 70, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "drive thru mean not want wait around half hour food somehow end going make u wait wait",
+      {
+        "entities": [
+          [0, 10, "RESTAURANT_TYPE"],
+          [20, 24, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "asked multiple time wine list time ignored went hostess got one",
+      {
+        "entities": [
+          [6, 19, "SERVICE"],
+          [20, 24, "FOOD"],
+          [35, 42, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "staff always super friendly helpful especially cool bring two small boy baby",
+      {
+        "entities": [
+          [19, 27, "SERVICE"],
+          [47, 51, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "four star food guy blue shirt great vibe still letting u eat",
+      {
+        "entities": [
+          [0, 9, "FOOD_QUALITY"],
+          [30, 40, "SENTIMENT"]
+        ]
+      }
+    ],
+    [
+      "proven dead wrong sushi bar not quality great service fast food impeccable",
+      {
+        "entities": [
+          [18, 27, "RESTAURANT_TYPE"],
+          [40, 53, "SERVICE"],
+          [54, 58, "SERVICE"],
+          [64, 74, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "personally love hummus pita baklava falafel baba ganoush amazing eggplant",
+      {
+        "entities": [
+          [11, 15, "SENTIMENT"],
+          [16, 22, "FOOD"],
+          [23, 27, "FOOD"],
+          [28, 35, "FOOD"],
+          [36, 43, "FOOD"],
+          [44, 56, "FOOD"],
+          [57, 64, "FOOD_QUALITY"],
+          [65, 73, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "price reasonable flavor spot sauce home made slaw not drenched mayo",
+      {
+        "entities": [
+          [0, 16, "PRICE"],
+          [29, 34, "FOOD"],
+          [35, 44, "FOOD_QUALITY"],
+          [45, 49, "FOOD"],
+          [50, 67, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "hawaiian breeze mango magic pineapple delight smoothy tried far good",
+      {
+        "entities": [
+          [0, 15, "FOOD"],
+          [16, 27, "FOOD"],
+          [28, 45, "FOOD"],
+          [46, 53, "FOOD"],
+          [64, 68, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "pro large seating area nice bar area great simple drink menu best brick oven pizza homemade dough",
+      {
+        "entities": [
+          [4, 22, "RESTAURANT_TYPE"],
+          [23, 36, "RESTAURANT_TYPE"],
+          [37, 42, "FOOD_QUALITY"],
+          [61, 65, "FOOD_QUALITY"],
+          [66, 76, "FOOD"],
+          [83, 97, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "ordered old classic new dish going time sorely disappointed everything",
+      {
+        "entities": [[40, 59, "SENTIMENT"]]
+      }
+    ],
+    [
+      "one nice thing added gratuity bill since party larger expect tip",
+      {
+        "entities": [
+          [4, 8, "SERVICE"],
+          [15, 29, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "also serve indian naan bread hummus spicy pine nut sauce world",
+      {
+        "entities": [
+          [11, 17, "RESTAURANT_TYPE"],
+          [18, 35, "FOOD"],
+          [36, 50, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "not sure long stood long enough begin feel awkwardly place",
+      {
+        "entities": [[43, 52, "SENTIMENT"]]
+      }
+    ],
+    [
+      "watched price inflate portion get smaller management attitude grow rapidly",
+      {
+        "entities": [
+          [8, 21, "PRICE"],
+          [22, 41, "SERVICE"],
+          [42, 74, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "close house low key non fancy affordable price good food",
+      {
+        "entities": [
+          [12, 19, "RESTAURANT_TYPE"],
+          [20, 29, "RESTAURANT_TYPE"],
+          [30, 46, "PRICE"],
+          [47, 51, "FOOD_QUALITY"],
+          [52, 56, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "staff super nice quick even crazy crowd downtown jury lawyer court staff",
+      {
+        "entities": [
+          [6, 16, "SERVICE"],
+          [17, 22, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "paying hot dog fry look like came kid meal wienerschnitzel not idea good meal",
+      {
+        "entities": [
+          [7, 14, "FOOD"],
+          [15, 18, "FOOD"],
+          [43, 58, "RESTAURANT"],
+          [59, 77, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "good going review place twice hereas tribute place tribute event held last night",
+      {
+        "entities": [[0, 4, "SENTIMENT"]]
+      }
+    ],
+    [
+      "high hope place since burger cooked charcoal grill unfortunately taste fell flat way flat",
+      {
+        "entities": [
+          [0, 9, "SENTIMENT"],
+          [22, 28, "FOOD"],
+          [51, 64, "SENTIMENT"],
+          [65, 80, "FOOD_QUALITY"],
+          [81, 89, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "not single employee came see ok even needed water refill finally served u food",
+      {
+        "entities": [
+          [0, 19, "SERVICE"],
+          [20, 28, "SERVICE"],
+          [44, 56, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "first time ever came amazing experience still tell people awesome duck",
+      {
+        "entities": [
+          [21, 28, "SENTIMENT"],
+          [58, 65, "FOOD_QUALITY"],
+          [66, 70, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "server negligent need made u feel unwelcome would not suggest place",
+      {
+        "entities": [
+          [0, 16, "SERVICE"],
+          [29, 43, "SENTIMENT"]
+        ]
+      }
+    ],
+    [
+      "love put food nice plastic container opposed cramming little paper takeout box",
+      {
+        "entities": [
+          [0, 4, "SENTIMENT"],
+          [9, 36, "SERVICE"],
+          [45, 78, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "best service food ever maria server good friendly made day",
+      {
+        "entities": [
+          [0, 12, "SERVICE"],
+          [36, 40, "SERVICE"],
+          [41, 49, "SERVICE"],
+          [50, 58, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "never bland food surprised considering article read focused much spice flavor",
+      {
+        "entities": [
+          [6, 16, "FOOD_QUALITY"],
+          [17, 26, "SENTIMENT"],
+          [65, 77, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "bad day not low tolerance rude customer service people job nice polite wash dish otherwise",
+      {
+        "entities": [
+          [12, 25, "SENTIMENT"],
+          [26, 47, "SERVICE"],
+          [59, 70, "SERVICE"],
+          [71, 80, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "wife hated meal coconut shrimp friend really not enjoy meal either",
+      {
+        "entities": [
+          [5, 10, "SENTIMENT"],
+          [11, 15, "FOOD"],
+          [16, 30, "FOOD"],
+          [45, 54, "SENTIMENT"],
+          [55, 59, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "may say buffet pricey think get pay place getting quite lot",
+      {
+        "entities": [
+          [8, 14, "RESTAURANT_TYPE"],
+          [15, 21, "PRICE"],
+          [32, 35, "PRICE"],
+          [50, 59, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "hot dish not hot cold dish close room temp watched staff prepare food bare hand no glove everything deep fried oil",
+      {
+        "entities": [
+          [0, 8, "FOOD"],
+          [9, 16, "FOOD_QUALITY"],
+          [17, 26, "FOOD"],
+          [33, 42, "FOOD_QUALITY"],
+          [57, 79, "SERVICE"],
+          [80, 88, "SERVICE"],
+          [100, 114, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "feel dining room college cooking course high class dining service slow best",
+      {
+        "entities": [
+          [0, 4, "SENTIMENT"],
+          [17, 39, "RESTAURANT_TYPE"],
+          [40, 57, "RESTAURANT_TYPE"],
+          [58, 70, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "ordered albondigas soup warm tasted like tomato soup frozen meatball",
+      {
+        "entities": [
+          [8, 23, "FOOD"],
+          [24, 28, "FOOD_QUALITY"],
+          [41, 52, "FOOD"],
+          [53, 68, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "three different occasion asked well done medium well three time got bloodiest piece meat plate",
+      {
+        "entities": [
+          [31, 40, "FOOD_QUALITY"],
+          [41, 52, "FOOD_QUALITY"],
+          [53, 63, "SERVICE"],
+          [68, 83, "FOOD_QUALITY"],
+          [84, 88, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "no allergy warning menu waitress absolutely no clue meal not contain peanut",
+      {
+        "entities": [
+          [0, 18, "SERVICE"],
+          [44, 51, "SERVICE"],
+          [52, 56, "FOOD"],
+          [57, 68, "FOOD_QUALITY"],
+          [69, 75, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "seriously not believe owner many unexperienced employee running around like chicken head cut",
+      {
+        "entities": [
+          [0, 21, "SENTIMENT"],
+          [33, 55, "SERVICE"],
+          [56, 92, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "hilarious yummy christmas eve dinner remember biggest fail entire trip u",
+      {
+        "entities": [
+          [0, 9, "SENTIMENT"],
+          [10, 15, "FOOD_QUALITY"],
+          [46, 58, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "chipolte ranch dipping sause tasteless seemed thin watered no heat",
+      {
+        "entities": [
+          [0, 28, "FOOD"],
+          [29, 38, "FOOD_QUALITY"],
+          [39, 50, "FOOD_QUALITY"],
+          [51, 58, "FOOD_QUALITY"],
+          [59, 66, "FOOD_QUALITY"]
+        ]
+      }
+    ],
+    [
+      "table outside also dirty lot time worker not always friendly helpful menu",
+      {
+        "entities": [
+          [19, 24, "SERVICE"],
+          [41, 68, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "ambiance not feel like buffet setting douchey indoor garden tea biscuit",
+      {
+        "entities": [
+          [23, 29, "RESTAURANT_TYPE"],
+          [38, 59, "RESTAURANT_TYPE"],
+          [60, 71, "FOOD"]
+        ]
+      }
+    ],
+    [
+      "someone order two taco think may part customer service ask combo ala cart",
+      {
+        "entities": [
+          [14, 22, "FOOD"],
+          [38, 54, "SERVICE"],
+          [55, 73, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "gotten much better service pizza place next door service received restaurant",
+      {
+        "entities": [
+          [7, 26, "SERVICE"],
+          [27, 38, "RESTAURANT"],
+          [66, 76, "RESTAURANT"]
+        ]
+      }
+    ],
+    [
+      "immediately said wanted talk manager not want talk guy shot fireball behind bar",
+      {
+        "entities": [
+          [24, 36, "SERVICE"],
+          [55, 79, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "kept looking time soon become minute yet still no food",
+      {
+        "entities": [[37, 54, "SERVICE"]]
+      }
+    ],
+    [
+      "sure beat nacho movie would expect little bit coming restaurant",
+      {
+        "entities": [
+          [0, 9, "FOOD_QUALITY"],
+          [10, 15, "FOOD"],
+          [28, 45, "SENTIMENT"],
+          [53, 63, "RESTAURANT"]
+        ]
+      }
+    ],
+    [
+      "problem charge sandwich no bigger subway sub offer better amount vegetable",
+      {
+        "entities": [
+          [8, 14, "PRICE"],
+          [15, 23, "FOOD"],
+          [24, 33, "FOOD_QUALITY"],
+          [34, 40, "RESTAURANT"],
+          [45, 74, "SERVICE"]
+        ]
+      }
+    ],
+    [
+      "wasted enough life poured salt wound drawing time took bring check",
+      {
+        "entities": [
+          [0, 6, "SENTIMENT"],
+          [45, 66, "SERVICE"]
+        ]
+      }
+    ]
+  ]
+}
